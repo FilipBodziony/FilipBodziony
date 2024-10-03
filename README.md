@@ -10,7 +10,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **fbodziony6@ucn.zsem.edu.pl**
+ 📫 How to reach me **fbodziony6@ucn.zsem.edu.pl**
+
 <p align="left">
 </p>
 
